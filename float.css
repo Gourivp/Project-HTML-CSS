@@ -1,0 +1,28 @@
+.wrap {
+	width: 80%;
+	margin: auto;
+	background: green;
+	overflow: hidden;
+}
+
+.content,aside {
+	height: 600px;
+}
+.content {
+        background: blue;
+	float: left;
+	width: 70%;
+}
+
+aside {
+	background: violet;
+	float: left;
+	width: 30%;
+}
+aside ul{
+	list-style: none;
+	padding-left: 0;
+}
+footer {
+	background: green;
+}

@@ -1,0 +1,68 @@
+body {
+	font-family: sans-serif;
+	margin-left: 50px;
+	width: 1200px;
+}
+article img {
+	width: 300px;
+	float: left;
+	margin-right: 20px;
+}
+article h4 {
+	color: blue;
+}
+article a {
+	color: #276056;
+	text-decoration: none;
+	font-size: 14px;
+}
+article {
+	margin-bottom: 20px;
+}
+div {
+	margin-top: 150px;
+	margin-bottom: 50px;
+}
+div h1 {
+	margin-top: 50px;	
+
+}
+dir h4 {
+	color: blue;
+}
+div p {
+	color: #4b4b4b;
+}
+dir a {
+	color: #276056;
+	text-decoration: none;
+}
+dir img {
+	width: 200px;
+	margin-bottom: 50px;
+	float: left;
+	margin-right: 20px;
+}
+dir {
+	margin-left: 0;
+	margin-bottom: 50px;
+	width: 600px;
+}
+data h4 {
+	color: blue;
+}
+data a {
+	color: #276056;
+	text-decoration: none;
+}
+data img {
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+	padding: 0;
+	vertical-align: top;
+	margin-bottom: 50px;
+}
+data {
+	margin-left: 300px;
+}
